@@ -1,0 +1,216 @@
+[{ 
+    "shortId" : 116888, 
+    "name" : "Lakers vs. Knicks", 
+    "shortname" : "LosAngelesLakersNewYorkKnicks01042019", 
+    "description" : "Watch live on Spectrum SportsNet\nListen live on 710 AM ESPN / 1330 AM ESPN DEPORTES", 
+    "homeLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/lakers.png", 
+    "awayLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/knicks.png", 
+    "background" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/lakers/4.jpg", 
+    "duplicate" : false, 
+    "scraperCreated" : true, 
+    "recurrence" : {
+        "enabled" : false
+    }, 
+    "noReminder" : false, 
+    "changed" : true, 
+    "private" : false, 
+    "viaDashboard" : false, 
+    "links" : [
+
+    ], 
+    "dynamicTicketing" : [
+
+    ], 
+    "dashboardDeleted" : false, 
+    "deleted" : false, 
+    "location" : {
+        "tz" : "America/Los_Angeles", 
+        "address" : "Staples Center, 1111 S Figueroa St, Los Angeles, CA 90015", 
+        "home" : true, 
+        "lonlat" : [
+            -118.267233, 
+            34.042982
+        ]
+    }, 
+    "additionalNotifications" : [
+
+    ], 
+    "dates" : {
+        "start" : "2019-02-05T03:30:00.000+0000", 
+        "end" : "2019-01-05T06:30:00.000+0000", 
+        "tbd" : false, 
+        "allDay" : false
+    }, 
+    "images" : {
+        "small" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-small.jpg", 
+        "medium" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-medium.jpg", 
+        "large" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-large.jpg"
+    }, 
+    "langs" : {
+
+    }, 
+    "ticketingPrimary" : "http://ticketmaster.evyy.net/c/258437/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flos-angeles-lakers-vs-new-york-los-angeles-california-01-04-2019%2Fevent%2F2C005508EEF30B43&subId2=nba-lakers", 
+    "namePostfix" : ""
+},
+{ 
+    "shortId" : 116888, 
+    "name" : "Lakers vs. Knicks", 
+    "shortname" : "LosAngelesLakersNewYorkKnicks01042019", 
+    "description" : "Watch live on Spectrum SportsNet\nListen live on 710 AM ESPN / 1330 AM ESPN DEPORTES", 
+    "homeLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/lakers.png", 
+    "awayLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/knicks.png", 
+    "background" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/lakers/4.jpg", 
+    "duplicate" : false, 
+    "scraperCreated" : true, 
+    "recurrence" : {
+        "enabled" : false
+    }, 
+    "noReminder" : false, 
+    "changed" : true, 
+    "private" : false, 
+    "viaDashboard" : false, 
+    "links" : [
+
+    ], 
+    "dynamicTicketing" : [
+
+    ], 
+    "dashboardDeleted" : false, 
+    "deleted" : false, 
+    "location" : {
+        "tz" : "America/Los_Angeles", 
+        "address" : "Staples Center, 1111 S Figueroa St, Los Angeles, CA 90015", 
+        "home" : true, 
+        "lonlat" : [
+            -118.267233, 
+            34.042982
+        ]
+    }, 
+    "additionalNotifications" : [
+
+    ], 
+    "dates" : {
+        "start" : "2019-01-05T03:30:00.000+0000", 
+        "end" : "2019-01-05T06:30:00.000+0000", 
+        "tbd" : false, 
+        "allDay" : false
+    }, 
+    "images" : {
+        "small" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-small.jpg", 
+        "medium" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-medium.jpg", 
+        "large" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-large.jpg"
+    }, 
+    "langs" : {
+
+    }, 
+    "ticketingPrimary" : "http://ticketmaster.evyy.net/c/258437/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flos-angeles-lakers-vs-new-york-los-angeles-california-01-04-2019%2Fevent%2F2C005508EEF30B43&subId2=nba-lakers", 
+    "namePostfix" : ""
+},
+{ 
+    "shortId" : 116888, 
+    "name" : "Lakers vs. Knicks", 
+    "shortname" : "LosAngelesLakersNewYorkKnicks01042019", 
+    "description" : "Watch live on Spectrum SportsNet\nListen live on 710 AM ESPN / 1330 AM ESPN DEPORTES", 
+    "homeLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/lakers.png", 
+    "awayLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/knicks.png", 
+    "background" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/lakers/4.jpg", 
+    "duplicate" : false, 
+    "scraperCreated" : true, 
+    "recurrence" : {
+        "enabled" : false
+    }, 
+    "noReminder" : false, 
+    "changed" : true, 
+    "private" : false, 
+    "viaDashboard" : false, 
+    "links" : [
+
+    ], 
+    "dynamicTicketing" : [
+
+    ], 
+    "dashboardDeleted" : false, 
+    "deleted" : false, 
+    "location" : {
+        "tz" : "America/Los_Angeles", 
+        "address" : "Staples Center, 1111 S Figueroa St, Los Angeles, CA 90015", 
+        "home" : true, 
+        "lonlat" : [
+            -118.267233, 
+            34.042982
+        ]
+    }, 
+    "additionalNotifications" : [
+
+    ], 
+    "dates" : {
+        "start" : "2019-01-05T03:30:00.000+0000", 
+        "end" : "2019-01-05T06:30:00.000+0000", 
+        "tbd" : false, 
+        "allDay" : false
+    }, 
+    "images" : {
+        "small" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-small.jpg", 
+        "medium" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-medium.jpg", 
+        "large" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-large.jpg"
+    }, 
+    "langs" : {
+
+    }, 
+    "ticketingPrimary" : "http://ticketmaster.evyy.net/c/258437/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flos-angeles-lakers-vs-new-york-los-angeles-california-01-04-2019%2Fevent%2F2C005508EEF30B43&subId2=nba-lakers", 
+    "namePostfix" : ""
+},
+{ 
+    "shortId" : 116888, 
+    "name" : "Lakers vs. Knicks", 
+    "shortname" : "LosAngelesLakersNewYorkKnicks01042019", 
+    "description" : "Watch live on Spectrum SportsNet\nListen live on 710 AM ESPN / 1330 AM ESPN DEPORTES", 
+    "homeLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/lakers.png", 
+    "awayLogoScraped" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/logos/knicks.png", 
+    "background" : "https://dff2h0hbfv6w4.cloudfront.net/images/nba/lakers/4.jpg", 
+    "duplicate" : false, 
+    "scraperCreated" : true, 
+    "recurrence" : {
+        "enabled" : false
+    }, 
+    "noReminder" : false, 
+    "changed" : true, 
+    "private" : false, 
+    "viaDashboard" : false, 
+    "links" : [
+
+    ], 
+    "dynamicTicketing" : [
+
+    ], 
+    "dashboardDeleted" : false, 
+    "deleted" : false, 
+    "location" : {
+        "tz" : "America/Los_Angeles", 
+        "address" : "Staples Center, 1111 S Figueroa St, Los Angeles, CA 90015", 
+        "home" : true, 
+        "lonlat" : [
+            -118.267233, 
+            34.042982
+        ]
+    }, 
+    "additionalNotifications" : [
+
+    ], 
+    "dates" : {
+        "start" : "2019-01-05T03:30:00.000+0000", 
+        "end" : "2019-01-05T06:30:00.000+0000", 
+        "tbd" : false, 
+        "allDay" : false
+    }, 
+    "images" : {
+        "small" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-small.jpg", 
+        "medium" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-medium.jpg", 
+        "large" : "https://dff2h0hbfv6w4.cloudfront.net/images/background-events/180308/43eb018466654b6d7dd6b8ed11b92678-large.jpg"
+    }, 
+    "langs" : {
+
+    }, 
+    "ticketingPrimary" : "http://ticketmaster.evyy.net/c/258437/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flos-angeles-lakers-vs-new-york-los-angeles-california-01-04-2019%2Fevent%2F2C005508EEF30B43&subId2=nba-lakers", 
+    "namePostfix" : ""
+}]
